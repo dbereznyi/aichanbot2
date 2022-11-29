@@ -1,0 +1,3 @@
+nick:<twitch bot nickname here>
+pass:<twitch bot oauth token here>
+channel:<twitch channel for bot to join>
